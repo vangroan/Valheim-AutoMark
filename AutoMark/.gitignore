@@ -1,0 +1,4 @@
+# Do not commit closed source dependencies.
+Libs/*.dll
+Libs/*.xml
+Libs/*.pdb
